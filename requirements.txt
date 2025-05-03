@@ -1,0 +1,11 @@
+git+https://github.com/mokandil/pytube.git
+edge_tts
+ffmpeg
+pydub
+moviepy
+translate
+pytorch
+openai
+openai-whisper
+streamlit
+streamlit-option-menu
